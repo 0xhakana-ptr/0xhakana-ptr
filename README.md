@@ -1,9 +1,8 @@
-<!-- 顶部的樱花特效 (请确保 sakura.svg 已在仓库中) -->
+<!-- 顶部的樱花特效 -->
+<!--当 GitHub 用 <img> 标签加载 sakura.svg 时，浏览器会把这个 SVG 扔进一个严格的隔离沙箱里。为了防止跨站请求伪造CSRF或者追踪像素Tracking Pixels，浏览器会强行阻断 SVG 内部发起的所有外部网络请求。-->
 <p align="center">
   <img src="./sakura.svg" width="100%" alt="Sakura Effect" />
-  <p align="center">
-  <img src="https://github.com/guocommencal/picx-images-hosting/raw/master/a99671e8f2714f455bdac96f7ea69532.b9ixfm102.webp" width="150%"/>
-  </p>
+
 </p>
 
 
