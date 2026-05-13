@@ -10,7 +10,15 @@
             <circle cx="0" cy="0" r="2" fill="#ff8da1"/>
         </g>
     </defs>
+    <!-- WebP  -->
+    <!-- preserveAspectRatio="xMidYMid slice" -->
+    <image href="https://github.com/0xhakana-ptr/picx-images-hosting/raw/master/a99671e8f2714f455bdac96f7ea69532.b9ixfm102.webp" 
+           x="0" y="0" width="800" height="400" preserveAspectRatio="xMidYMid slice" opacity="0.9"/>
 
+    <!-- type -->
+    <!--  -->
+    <image href="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=400&amp;size=22&amp;pause=1500&amp;color=8AB4F8&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Hello%2C+World.;%E3%82%88%E3%81%8F%E3%81%8D%E3%81%9F%E3%81%AD%E3%80%82;Welcome" 
+           x="100" y="250" width="600" height="50" />
     <!-- 透明背景 -->
     <rect width="100%" height="100%" fill="transparent"/>
 
