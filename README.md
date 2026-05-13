@@ -1,6 +1,6 @@
 <!-- 顶部的樱花特效 (请确保 sakura.svg 已在仓库中) -->
 <p align="center">
-  <img src="./sakura.svg" width="100%" alt="Sakura Effect" />
+  <img src="https://github.com/guocommencal/picx-images-hosting/raw/master/a99671e8f2714f455bdac96f7ea69532.b9ixfm102.webp" width="200%" alt="Sakura Effect" />
 </p>
 
 
