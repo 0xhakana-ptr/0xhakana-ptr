@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 300" width="100%" height="300">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" width="100%" height="100%">
     <defs>
-        <!-- 定义一朵经典的粉色5瓣樱花，基础尺寸保持精致 -->
+        <!-- 定义樱花花瓣 -->
         <g id="sakura">
             <path d="M0,0 C-8,-10 -10,-20 -4,-25 L0,-22 L4,-25 C10,-20 8,-10 0,0" fill="#ffb7c5" opacity="0.9"/>
             <path d="M0,0 C-8,-10 -10,-20 -4,-25 L0,-22 L4,-25 C10,-20 8,-10 0,0" fill="#ffb7c5" opacity="0.9" transform="rotate(72)"/>
@@ -10,71 +10,57 @@
             <circle cx="0" cy="0" r="2" fill="#ff8da1"/>
         </g>
     </defs>
-    <!-- WebP  -->
-    <!-- preserveAspectRatio="xMidYMid slice" -->
+
+    <!--  WebP -->
+    <!-- preserveAspectRatio="xMidYMid slice"-->
     <image href="https://github.com/0xhakana-ptr/picx-images-hosting/raw/master/a99671e8f2714f455bdac96f7ea69532.b9ixfm102.webp" 
            x="0" y="0" width="800" height="400" preserveAspectRatio="xMidYMid slice" opacity="0.9"/>
 
     <!-- type -->
-    <!--  -->
     <image href="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=400&amp;size=22&amp;pause=1500&amp;color=8AB4F8&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Hello%2C+World.;%E3%82%88%E3%81%8F%E3%81%8D%E3%81%9F%E3%81%AD%E3%80%82;Welcome" 
-           x="100" y="250" width="600" height="50" />
-    <!-- 透明背景 -->
-    <rect width="100%" height="100%" fill="transparent"/>
+           x="100" y="280" width="600" height="50" />
 
-    <!-- 樱花飘落阵列 (scale 区间 0.20 ~ 0.40) -->
-    
-    <!-- 樱花 1 -->
+    <!-- 【顶层】：樱花飘落阵列 (覆盖在图片和文字之上) -->
     <g>
-        <animateTransform attributeName="transform" type="translate" from="100,-30" to="200,330" dur="8s" repeatCount="indefinite" />
+        <animateTransform attributeName="transform" type="translate" from="100,-30" to="200,430" dur="8s" repeatCount="indefinite" />
         <g>
             <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="5s" repeatCount="indefinite" />
-            <use href="#sakura" transform="scale(0.30)"/>
+            <use href="#sakura" transform="scale(0.35)"/>
         </g>
     </g>
-
-    <!-- 樱花 2 (极小，远景) -->
     <g>
-        <animateTransform attributeName="transform" type="translate" from="300,-50" to="250,330" dur="10s" begin="1s" repeatCount="indefinite" />
+        <animateTransform attributeName="transform" type="translate" from="300,-50" to="250,430" dur="10s" begin="1s" repeatCount="indefinite" />
         <g>
             <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="6s" repeatCount="indefinite" />
-            <use href="#sakura" transform="scale(0.20)" opacity="0.6"/>
+            <use href="#sakura" transform="scale(0.2)" opacity="0.6"/>
         </g>
     </g>
-
-    <!-- 樱花 3 -->
     <g>
-        <animateTransform attributeName="transform" type="translate" from="500,-20" to="600,330" dur="7s" begin="2s" repeatCount="indefinite" />
+        <animateTransform attributeName="transform" type="translate" from="500,-20" to="600,430" dur="7s" begin="2s" repeatCount="indefinite" />
         <g>
             <animateTransform attributeName="transform" type="rotate" from="0" to="-360" dur="4s" repeatCount="indefinite" />
-            <use href="#sakura" transform="scale(0.40)"/>
+            <use href="#sakura" transform="scale(0.45)"/>
         </g>
     </g>
-
-    <!-- 樱花 4 -->
     <g>
-        <animateTransform attributeName="transform" type="translate" from="700,-60" to="600,330" dur="9s" begin="0.5s" repeatCount="indefinite" />
+        <animateTransform attributeName="transform" type="translate" from="700,-60" to="600,430" dur="9s" begin="0.5s" repeatCount="indefinite" />
         <g>
             <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="7s" repeatCount="indefinite" />
-            <use href="#sakura" transform="scale(0.25)" opacity="0.8"/>
+            <use href="#sakura" transform="scale(0.3)" opacity="0.8"/>
         </g>
     </g>
-
-     <!-- 樱花 5 (极小，远景) -->
     <g>
-        <animateTransform attributeName="transform" type="translate" from="50,-80" to="-20,330" dur="11s" begin="3s" repeatCount="indefinite" />
+        <animateTransform attributeName="transform" type="translate" from="50,-80" to="-20,430" dur="11s" begin="3s" repeatCount="indefinite" />
         <g>
             <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="5.5s" repeatCount="indefinite" />
-            <use href="#sakura" transform="scale(0.22)"/>
+            <use href="#sakura" transform="scale(0.25)"/>
         </g>
     </g>
-    
-    <!-- 樱花 6 -->
     <g>
-        <animateTransform attributeName="transform" type="translate" from="400,-40" to="450,330" dur="8.5s" begin="1.5s" repeatCount="indefinite" />
+        <animateTransform attributeName="transform" type="translate" from="400,-40" to="450,430" dur="8.5s" begin="1.5s" repeatCount="indefinite" />
         <g>
             <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="6.5s" repeatCount="indefinite" />
-            <use href="#sakura" transform="scale(0.35)" opacity="0.85"/>
+            <use href="#sakura" transform="scale(0.4)" opacity="0.85"/>
         </g>
     </g>
 </svg>
