@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/GuoFanyuan">
+  <a href="">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=22&pause=1500&color=8AB4F8&center=true&vCenter=true&width=600&lines=Hello%2C+World.;%E3%82%88%E3%81%8F%E3%81%8D%E3%81%9F%E3%81%AD%E3%80%82;Welcome" alt="Typing SVG" />
   </a>
 </p>
