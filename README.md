@@ -24,6 +24,7 @@
   <img alt="Vue" src="https://img.shields.io/badge/Vue-4FC08D?style=flat&logo=vuedotjs&logoColor=white" />
   <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" />
   <img alt="Vite" src="https://img.shields.io/badge/Electron-yellow?logo=electron" />
+  <br>
   <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
   <img alt="Shell" src="https://img.shields.io/badge/Shell-4EAA25?style=flat&logo=gnubash&logoColor=white" />
   <img alt="Kali Linux" src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat&logo=kalilinux&logoColor=white" />
