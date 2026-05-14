@@ -15,28 +15,31 @@
 
 # 🌸 Hi there, I'm 0xhakana-ptr <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
 <p align="center">
-  <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img alt="Vue" src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
-  <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img alt="Shell" src="https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
-  <img alt="Kali Linux" src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img alt="Fedora" src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" />
-  <img alt="Web" src="https://img.shields.io/badge/Web-0A66C2?style=for-the-badge" />
-  <img alt="Pwn" src="https://img.shields.io/badge/Pwn-7E3FF2?style=for-the-badge" />
+  <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black" />
+  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img alt="Vue" src="https://img.shields.io/badge/Vue-4FC08D?style=flat&logo=vuedotjs&logoColor=white" />
+  <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" />
+  <img alt="Vite" src="https://img.shields.io/badge/Electron-yellow?logo=electron" />
+  <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
+  <img alt="Shell" src="https://img.shields.io/badge/Shell-4EAA25?style=flat&logo=gnubash&logoColor=white" />
+  <img alt="Kali Linux" src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat&logo=kalilinux&logoColor=white" />
+  <img alt="Fedora" src="https://img.shields.io/badge/Fedora-51A2DA?style=flat&logo=fedora&logoColor=white" />
+  <img alt="Web" src="https://img.shields.io/badge/Web-0A66C2?style=flat" />
+  <img alt="Pwn" src="https://img.shields.io/badge/Pwn-7E3FF2?style=flat" />
 </p>
 </div>
 
-## ✦ About me <img src="https://user-images.githubusercontent.com/74038190/213910471-54fd7ea1-77ff-4b53-bf84-a75126c9b2bd.png" height="26" />
+## ✦ About me <img src="https://user-images.githubusercontent.com/74038190/213910471-54fd7ea1-77ff-4b53-bf84-a75126c9b2bd.png" height="34" />
 
-- 🌸 **Aesthetic:** A hopeless "White Dolphin" romantic  swimming in the world of 2D aesthetics(maybe sometime 3D? But yuri is the best).
-- ⚙️ **Hobby:** An endless tinkerer who loves breaking and fixing systems.
-- 🐛 **Skill:** An ambitious developer exceptionally skilled at writing elegant and unexpected bugs.
+<div align="left">
+  <h4>🌸 <b>Aesthetic:</b> A hopeless "White Dolphin" romantic swimming in the world of 2D aesthetics (maybe sometime 3D? But yuri is the best).</h4>
+  <h4>⚙️ <b>Hobby:</b> An endless tinkerer who loves breaking and fixing systems.</h4>
+  <h4>🐛 <b>Skill:</b> An ambitious developer exceptionally skilled at writing elegant and unexpected bugs.</h4>
+</div>
 
 
 
