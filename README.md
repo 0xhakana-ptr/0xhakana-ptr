@@ -6,10 +6,10 @@
 
 </p>
 
-
+𝓸𝓷𝓮 𝓭𝓪𝔂，𝔂𝓸𝓾 𝔀𝓲𝓵𝓵 𝓻𝓮𝓪𝓬𝓱 𝓽𝓱𝓮 𝓼𝓮𝓪
 <p align="center">
   <a href="">
-    <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=400&size=32&pause=1500&color=8AB4F8&center=true&vCenter=true&width=900&lines=𝓸𝓷𝓮+𝓭𝓪𝔂%EF%BC%8C+𝔂𝓸𝓾+𝔀𝓲𝓵𝓵+𝓻𝓮𝓪𝓬𝓱+𝓽𝓱𝓮+𝓼𝓮𝓪++++%E2%80%94%E2%80%94%E3%80%8A%E3%82%84%E3%81%8C%E3%81%A6%E6%B5%B7%E3%81%B8%E3%81%A8%E5%B1%8A%E3%81%8F%E3%80%8B" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=400&size=32&pause=1500&color=8AB4F8&center=true&vCenter=true&width=900&lines=one+day%EF%BC%8C+you+will+reach+the+sea++++%E2%80%94%E2%80%94%E3%80%8A%E3%82%84%E3%81%8C%E3%81%A6%E6%B5%B7%E3%81%B8%E3%81%A8%E5%B1%8A%E3%81%8F%E3%80%8B" alt="Typing SVG" />
   </a>
 </p>
 
