@@ -20,7 +20,7 @@
   <g font-family="Consolas, 'Courier New', monospace" font-size="22" filter="url(#faint-glow)">
     
     <!-- 第一行注释：唯美樱花粉发光 -->
-    <text x="25" y="45" fill="#ffb8c6" font-style="italic">// MY EVERY DAY LIFE:</text>
+    <text x="25" y="45" fill="#ffb8c6" font-style="italic">// MY DAILY LIFE:</text>
 
     <!-- 第二行：C++ 关键字高亮 -->
     <text x="25" y="85">
