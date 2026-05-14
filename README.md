@@ -41,6 +41,11 @@
   <h3>⚙️ <b>Hobby:</b> An endless tinkerer who loves breaking and fixing systems.</h3>
   <h3>🐛 <b>Skill:</b> An ambitious developer exceptionally skilled at writing elegant and unexpected bugs.</h3>
 </div>
+<!-- 可爱工具图标 -->
+<div align="left" style="margin-right: 20px; margin-top: 10px;">
+  <img src="Github_profile\src\VSCode.png" width="130" alt="VS Code" />
+  <img src="Github_profile\src\Archlinux.png" width="130" alt="Archlinux" />
+</div>
 
 
 
