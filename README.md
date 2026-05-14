@@ -1,5 +1,6 @@
 <!-- 顶部的樱花特效 -->
 <!--当 GitHub 用 <img> 标签加载 sakura.svg 时，浏览器会把这个 SVG 扔进一个严格的隔离沙箱里。为了防止跨站请求伪造CSRF或者追踪像素Tracking Pixels，浏览器会强行阻断 SVG 内部发起的所有外部网络请求。-->
+<h1 align="center">👻 𝓬𝓸𝓶𝔂𝓾𝓰𝓮𝓽𝓼𝓾 👻</h1>
 <p align="center">
   <img src="./sakura.svg" width="100%" alt="Sakura Effect" />
 
