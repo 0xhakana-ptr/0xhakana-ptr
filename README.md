@@ -48,14 +48,9 @@
   <img src="/src/ArchLinux.png" width="130" alt="Archlinux" />
 </div>
 
-```c++
-//MY EVERY DAY LIFE:
-while (true) {
-  read_yuri_novels(24 * HOURS);
-  watch_anime(24 * HOURS);
-  // Warning: No sleep function found.
-}
-```
+<p align="left">
+    <img src="./daily-life.svg" alt="code" />
+</p>
 <div align="center">
 <img src="https://raw.githubusercontent.com/0xhakana-ptr/0xhakana-ptr/refs/heads/output/github-contribution-grid-snake-dark.svg" />
 </div>

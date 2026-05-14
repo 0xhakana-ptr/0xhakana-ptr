@@ -1,0 +1,60 @@
+<svg width="650" height="260" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 650 260">
+  <defs>
+    <!-- 核心魔法：淡淡的唯美荧光滤镜 -->
+    <filter id="faint-glow" x="-20%" y="-20%" width="140%" height="140%">
+      <!-- stdDeviation="1.5" 控制了光晕的柔和度 -->
+      <feGaussianBlur stdDeviation="1.5" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />       <!-- 底层：光晕 -->
+        <feMergeNode in="SourceGraphic" /> <!-- 顶层：清晰的原生字体 -->
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- 已移除背景标签，实现完全透明效果 -->
+
+  <!-- 
+    整体字体设置：等宽字体，22px 大小。
+    应用了上面的荧光滤镜 filter="url(#faint-glow)" 
+  -->
+  <g font-family="Consolas, 'Courier New', monospace" font-size="22" filter="url(#faint-glow)">
+    
+    <!-- 第一行注释：唯美樱花粉发光 -->
+    <text x="25" y="45" fill="#ffb8c6" font-style="italic">// MY EVERY DAY LIFE:</text>
+
+    <!-- 第二行：C++ 关键字高亮 -->
+    <text x="25" y="85">
+      <tspan fill="#c792ea">while</tspan>
+      <tspan fill="#eeffff"> (</tspan>
+      <tspan fill="#ffb86c">true</tspan>
+      <tspan fill="#eeffff">) {</tspan>
+    </text>
+
+    <!-- 第三行：函数与参数高亮 -->
+    <text x="55" y="125">
+      <tspan fill="#8be9fd">read_yuri_novels</tspan>
+      <tspan fill="#eeffff">(</tspan>
+      <tspan fill="#ff79c6">24</tspan>
+      <tspan fill="#eeffff"> * </tspan>
+      <tspan fill="#f1fa8c">HOURS</tspan>
+      <tspan fill="#eeffff">);</tspan>
+    </text>
+
+    <!-- 第四行 -->
+    <text x="55" y="165">
+      <tspan fill="#8be9fd">watch_anime</tspan>
+      <tspan fill="#eeffff">(</tspan>
+      <tspan fill="#ff79c6">24</tspan>
+      <tspan fill="#eeffff"> * </tspan>
+      <tspan fill="#f1fa8c">HOURS</tspan>
+      <tspan fill="#eeffff">);</tspan>
+    </text>
+
+    <!-- 第五行注释：静谧的幽蓝色调 -->
+    <text x="55" y="205" fill="#6272a4" font-style="italic">// Warning: No sleep function found.</text>
+
+    <!-- 第六行 -->
+    <text x="25" y="245" fill="#eeffff">}</text>
+
+  </g>
+</svg>
