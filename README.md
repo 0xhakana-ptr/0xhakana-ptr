@@ -33,12 +33,12 @@
 </p>
 </div>
 
-## ✦ About me <img src="https://user-images.githubusercontent.com/74038190/213910471-54fd7ea1-77ff-4b53-bf84-a75126c9b2bd.png" height="34" />
+## ✦ About me <img src="https://user-images.githubusercontent.com/74038190/213910471-54fd7ea1-77ff-4b53-bf84-a75126c9b2bd.png" height="40" />
 
 <div align="left">
-  <h4>🌸 <b>Aesthetic:</b> A hopeless "White Dolphin" romantic swimming in the world of 2D aesthetics (maybe sometime 3D? But yuri is the best).</h4>
-  <h4>⚙️ <b>Hobby:</b> An endless tinkerer who loves breaking and fixing systems.</h4>
-  <h4>🐛 <b>Skill:</b> An ambitious developer exceptionally skilled at writing elegant and unexpected bugs.</h4>
+  <h2>🌸 <b>Aesthetic:</b> A hopeless "White Dolphin" romantic swimming in the world of 2D aesthetics (maybe sometime 3D? But yuri is the best).</h2>
+  <h2>⚙️ <b>Hobby:</b> An endless tinkerer who loves breaking and fixing systems.</h2>
+  <h2>🐛 <b>Skill:</b> An ambitious developer exceptionally skilled at writing elegant and unexpected bugs.</h2>
 </div>
 
 
