@@ -12,20 +12,21 @@
   </a>
 </p>
 <div align="center">
+
 # 🌸 Hi there, I'm 0xhakana-ptr <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
 </div>
 <br>
 
-## ✦ Technology Stack<img src="https://user-images.githubusercontent.com/74038190/219925470-37670a3b-c3e2-4af7-b468-673c6dd99d16.png" width="70%"/>
+## ✦ Technology Stack <img src="https://user-images.githubusercontent.com/74038190/219925470-37670a3b-c3e2-4af7-b468-673c6dd99d16.png" height="26" />
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,c++,python,html,css,javascript,vue,vite,git&theme=dark&perline=8" width="70%"/>
-<p>
+  <img src="https://skillicons.dev/icons?i=c,c++,python,html,css,javascript,vue,vite,git&theme=dark&perline=8" width="70%" />
+</p>
 
-## ✦ About me<img src="https://user-images.githubusercontent.com/74038190/213910471-54fd7ea1-77ff-4b53-bf84-a75126c9b2bd.png" width="70%"/>
+## ✦ About me <img src="https://user-images.githubusercontent.com/74038190/213910471-54fd7ea1-77ff-4b53-bf84-a75126c9b2bd.png" height="26" />
 
-> 🌸 **Aesthetic:** A hopeless "White Dolphin" romantic  swimming in the world of 2D aesthetics.
-> ⚙️ **Hobby:** An endless tinkerer who loves breaking and fixing systems.
-> 🐛 **Skill:** An ambitious developer exceptionally skilled at writing elegant and unexpected bugs.
+- 🌸 **Aesthetic:** A hopeless "White Dolphin" romantic  swimming in the world of 2D aesthetics.
+- ⚙️ **Hobby:** An endless tinkerer who loves breaking and fixing systems.
+- 🐛 **Skill:** An ambitious developer exceptionally skilled at writing elegant and unexpected bugs.
 
 
 
