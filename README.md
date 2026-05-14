@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="">
-    <img src="https://readme-typing-svg.demolab.com?font=Parisienne&weight=400&size=48&pause=1500&color=8AB4F8&center=true&vCenter=true&width=900&lines=one+day%EF%BC%8C+you+will+reach+the+sea++++%E2%80%94%E2%80%94%E3%80%8A%E3%82%84%E3%81%8C%E3%81%A6%E6%B5%B7%E3%81%B8%E3%81%A8%E5%B1%8A%E3%81%8F%E3%80%8B" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Parisienne&weight=400&size=38&pause=1500&color=8AB4F8&center=true&vCenter=true&width=900&lines=one+day%EF%BC%8C+you+will+reach+the+sea++++%E2%80%94%E2%80%94%E3%80%8A%E3%82%84%E3%81%8C%E3%81%A6%E6%B5%B7%E3%81%B8%E3%81%A8%E5%B1%8A%E3%81%8F%E3%80%8B" alt="Typing SVG" />
   </a>
 </p>
 
