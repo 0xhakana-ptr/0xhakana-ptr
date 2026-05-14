@@ -40,14 +40,27 @@
   <h3>🌸 <b>Aesthetic:</b> A hopeless "White Dolphin" romantic swimming in the world of 2D aesthetics (maybe sometime 3D? But yuri is the best).</h3>
   <h3>⚙️ <b>Hobby:</b> An endless tinkerer who loves breaking and fixing systems.</h3>
   <h3>🐛 <b>Skill:</b> An ambitious developer exceptionally skilled at writing elegant and unexpected bugs.</h3>
+  <h3>☘️ <b>Hidden Talent:</b> Possesses the rare endurance to get completely lost in Yuri light novels and anime for an entire day, seamlessly escaping reality.</h3>
 </div>
 <!-- 可爱工具图标 -->
 <div align="left" style="margin-right: 20px; margin-top: 10px;">
-  <img src="Github_profile\src\VSCode.png" width="130" alt="VS Code" />
-  <img src="Github_profile\src\Archlinux.png" width="130" alt="Archlinux" />
+  <img src="/src/VSCode.png" width="130" alt="VS Code" />
+  <img src="/src/Archlinux.png" width="130" alt="Archlinux" />
 </div>
 
+```c++
+//MY EVERY DAY LIFE:
+while (true) {
+  read_yuri_novels(24 * HOURS);
+  watch_anime(24 * HOURS);
+  // Warning: No sleep function found.
+}
+```
+<div align="center">
+<img src="https://raw.githubusercontent.com/0xhakana-ptr/0xhakana-ptr/refs/heads/output/github-contribution-grid-snake-dark.svg" />
+</div>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
