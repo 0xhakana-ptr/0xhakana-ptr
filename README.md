@@ -45,7 +45,7 @@
 <!-- 可爱工具图标 -->
 <div align="left" style="margin-right: 20px; margin-top: 10px;">
   <img src="/src/VSCode.png" width="130" alt="VS Code" />
-  <img src="/src/Archlinux.png" width="130" alt="Archlinux" />
+  <img src="/src/ArchLinux.png" width="130" alt="Archlinux" />
 </div>
 
 ```c++
@@ -60,7 +60,7 @@ while (true) {
 <img src="https://raw.githubusercontent.com/0xhakana-ptr/0xhakana-ptr/refs/heads/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![0xhakana-ptr's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=0xhakana-ptr&theme=material-palenight)](https://github.com/0xhakana-ptr/github-readme-activity-graph)
 
 
 
